@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
         text.setText("")
         text.setOnClickListener{
             Toast.makeText(this,"Logg",Toast.LENGTH_LONG).show()
-                e("sfsdfsd","sg") }
+                e("sfssdfgsdfgsdfgdfsd","sg") }
 
 
         recyclerView.setHasFixedSize(true)
