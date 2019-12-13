@@ -26,7 +26,6 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this,"Logg",Toast.LENGTH_LONG).show()
                 e("adfasgf","sg") }
 
-
         recyclerView.setHasFixedSize(true)
         recyclerView.layoutManager = LinearLayoutManager(this)
         recyclerView.addItemDecoration(DividerItemDecoration(this, DividerItemDecoration.VERTICAL))
